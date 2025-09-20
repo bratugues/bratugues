@@ -12,14 +12,14 @@ Career-changer passionate about building functional and elegant web applications
 ---
 
 ### 🏆 Featured Project
-**[Torcida+](https://github.com/YOUR_USERNAME/torcida_mais)**  
+**[Torcida+](https://github.com/bratugues/torcida_mais)**  
 A platform that brings football (soccer) fans together to watch matches.  
 *(Final project of my coding bootcamp)*
 
 ---
 
 ### 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Lobo-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Lobo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/ericklobo)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?style=flat-square&logo=About.me)](YOUR_PORTFOLIO_URL)
 
 ---
