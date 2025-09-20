@@ -32,8 +32,8 @@ A platform that brings football (soccer) fans together to watch matches.
 ---
 
 ### 📈 GitHub Stats
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bratugues&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bratugues&layout=compact&theme=transparent)
 
 ---
 
