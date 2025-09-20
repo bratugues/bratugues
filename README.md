@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Erick Lobo
 
-<!--
-**bratugues/bratugues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Web Developer (Ruby on Rails)**  
+Career-changer passionate about building functional and elegant web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Languages & Frameworks:** Ruby (Rails), JavaScript, HTML, CSS, SQL  
+- **Currently Learning:** React, TypeScript, Docker, Redux
+
+---
+
+### 🏆 Featured Project
+**[Torcida+](https://github.com/YOUR_USERNAME/torcida_mais)**  
+A platform that brings football (soccer) fans together to watch matches.  
+*(Final project of my coding bootcamp)*
+
+---
+
+### 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Lobo-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?style=flat-square&logo=About.me)](YOUR_PORTFOLIO_URL)
+
+---
+
+### ⚡ Fun Facts
+- 🎮 Gamer in my free time  
+- ✈️ Love traveling  
+- ⚽ Football (soccer) enthusiast
+
+---
+
+### 📈 GitHub Stats
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
