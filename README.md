@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Erick Lobo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Ruby+on+Rails+Enthusiast;Open+to+new+opportunities)](https://git.io/typing-svg)
+
 Career-changer passionate about building functional and elegant web applications.
 
 ---
