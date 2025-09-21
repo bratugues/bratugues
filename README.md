@@ -37,6 +37,7 @@ A platform that brings football (soccer) fans together to watch matches.
 [![Erick's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bratugues&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Ruby+on+Rails+Enthusiast;Open+to+new+opportunities)](https://git.io/typing-svg)
 
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
