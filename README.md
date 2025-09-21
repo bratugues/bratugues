@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Erick Lobo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Ruby+on+Rails+Enthusiast;Open+to+new+opportunities)](https://git.io/typing-svg)
-
+💻 **Full-Stack Web Developer (Ruby on Rails)** 
 Career-changer passionate about building functional and elegant web applications.
 
 ---
@@ -39,4 +38,5 @@ A platform that brings football (soccer) fans together to watch matches.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%27s%20bad.%20-%20Cory%20House)](https://git.io/typing-svg)
+
