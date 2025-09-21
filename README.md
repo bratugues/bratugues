@@ -26,14 +26,16 @@ A platform that brings football (soccer) fans together to watch matches.
 
 ### ⚡ Fun Facts
 - 🎮 Gamer in my free time  
-- ✈️ Love traveling  
-- ⚽ Football (soccer) enthusiast
+- ✈️ Travel addicted 
+- ⚽ Football enthusiast
 
 ---
 
-### 📈 GitHub Stats
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bratugues&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bratugues&layout=compact&theme=transparent)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bratugues/bratugues/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bratugues/bratugues/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bratugues/bratugues/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
