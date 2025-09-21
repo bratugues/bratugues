@@ -31,6 +31,9 @@ A platform that brings football (soccer) fans together to watch matches.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bratugues&theme=transparent)](https://git.io/streak-stats)
+
+
 [![Erick's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bratugues&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
