@@ -20,7 +20,7 @@ A platform that brings football (soccer) fans together to watch matches.
 
 ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Lobo-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ericklobo)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?style=flat-square&logo=About.me)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?style=flat-square&logo=About.me)](YOUR_PORTFOLIO_URL) -- work in progress --
 
 ---
 
