@@ -7,7 +7,7 @@ Career-changer passionate about building functional and elegant web applications
 
 ### 🚀 Tech Stack
 - **Languages & Frameworks:** Ruby (Rails), JavaScript, HTML, CSS, SQL  
-- **Currently Learning:** React, TypeScript, Docker, Redux
+- **Currently Learning:** React, NodeJS
 
 ---
 
